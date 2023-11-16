@@ -109,7 +109,7 @@ https://www.notion.so/7036228bc1ea4e3aa77019915809bca9
 <p>В ходе проверки найдено три бага с серьезностью S2 и S3, основной функционал работает хорошо.  Проверка продукта производилась в браузере Chrome и в мобильном приложении Skyeng (Версия 9.97 (7088)). <p>
 
 #### Демонстрационные файлы:
-https://anastasia-rezepova.atlassian.net/wiki/spaces/~639e1fb5abc764d2ca602169/pages/17039361
+https://docs.google.com/document/d/1HerRiMJGeJ3WRJlllFrfXuAhTQEtcLYoydf8JLJguvM/edit?usp=sharing
 
 
 
